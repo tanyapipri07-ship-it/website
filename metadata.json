@@ -1,0 +1,8 @@
+{
+  "name": "The 30-Day Breastfeeding Mom's Diet Plan",
+  "description": "30-day breastfeeding diet plan for Indian moms: day-wise menus, easy recipes and portion guidance in one PDF. Plan your meals the easy way. ₹399.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
